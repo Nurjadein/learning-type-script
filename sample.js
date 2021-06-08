@@ -1,2 +1,1 @@
-// alert('djnc');
-// console.log("mbi");
+console.log("jknsd");
